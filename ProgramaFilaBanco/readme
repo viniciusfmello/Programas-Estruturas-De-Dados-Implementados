@@ -1,0 +1,11 @@
+Esse e a maioria dos outros projetos deste repositório são idênticos aos utilizandos nas coleções já existentes na biblioteca da linguagem C#. Seu diferencial é que as estruturas de dados são implementadas à mão.
+
+Esse programa simula uma fila de atendimento em um banco. Utilizando uma estrutura de dados Fila (Fila Circular) para representar os
+clientes na fila. 
+
+Ele possui o seguinte MENU de opções:
+
+a) Adicionar um cliente à fila
+b) Atender um cliente (remover o primeiro da fila)
+c) Exibir o número de clientes na fila
+d) Exibir o próximo cliente a ser atendido

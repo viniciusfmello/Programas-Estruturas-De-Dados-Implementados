@@ -1,0 +1,15 @@
+Esse e a maioria dos outros projetos deste repositório são idênticos aos utilizandos nas coleções já existentes na biblioteca da linguagem C#. Seu diferencial é que as estruturas de dados são implementadas à mão.
+
+Esse programa permite que um usuário gerencie sua lista de filme através de um MENU de opções.
+Foi utilizado a estrutura de dados Lista.
+
+Funcionalidades: 
+1 - Inserir um filme no final da lista
+2 - Inserir um filme em uma posição específica da lista
+3 - Remover um filme da lista
+4 - Remover um filme em uma posição específica da lista
+5 - Pesquisar se um filme consta na lista
+6 - Listar todos os filmes da lista
+7 - Inverter a ordem dos filmes presentes na lista
+8 - Ordenar a lista de filmes
+9 - Encerrar o programa

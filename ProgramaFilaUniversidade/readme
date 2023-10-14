@@ -1,0 +1,25 @@
+Esse e todos outros projetos deste repositório são idênticos aos utilizandos nas coleções já existentes na biblioteca da linguagem C#. Seu diferencial é que as estruturas de dados são implementadas à mão.-
+
+Esse programa permite gerenciar duas filas de espera para uma universidade. 
+
+1) Fila de interessados em bolsas de Iniciação Científica
+2) Fila de interessados de bolsas de Mestrado.
+
+Na universidade, cada aluno tem um código único (int). Nas filas de espera deve ser
+armazenado apenas os códigos dos alunos. O programa apresenta um menu com opções de operações.
+
+Foi utilizado a estrutura de dados Fila.
+
+Menu:
+
+1 - Inserir um aluno na fila de espera de bolsas de Iniciação Científica
+2 - Inserir um aluno na fila de espera de bolsas de Mestrado
+3 - Remover um aluno da fila de bolsas de Iniciação Científica
+4 - Remover um aluno da fila de bolsas de Mestrado
+5 - Mostrar fila de espera de bolsas de Iniciação Científica
+6 - Mostrar fila de espera de bolsas de Mestrado
+7 - Pesquisar aluno na fila de espera de bolsas de Iniciação Científica
+8 - Pesquisar aluno na fila de espera de bolsas de Mestrado
+9 - Mostrar qual o aluno que está no início da fila de espera de bolsas de Iniciação Científica
+10 - Mostrar qual o aluno que está no início da fila de espera de bolsas de Mestrado
+11- Encerrar o programa

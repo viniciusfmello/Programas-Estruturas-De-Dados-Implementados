@@ -1,0 +1,15 @@
+Esse e a maioria dos outros projetos deste repositório são idênticos aos utilizandos nas coleções já existentes na biblioteca da linguagem C#. Seu diferencial é que as estruturas de dados são implementadas à mão.
+Esse programa permite ao usuário inserir números inteiros em uma lista. Em seguida,
+realiza as seguintes funcionalidades através de um MENU. 
+
+O programa permite:
+
+1- Insira um número na lista
+2 - Verifica se um número se encontra na lista
+3 - Exiba a soma de todos os números na lista
+4 - Exiba o maior número na lista
+5 - Exiba o menor número na lista
+6 - Remova todos os números pares da lista
+7 - Exiba os números que estão na lista, após a remoção dos números pares
+8 - Inverta os elementos da lista
+9 - Encerre o programa

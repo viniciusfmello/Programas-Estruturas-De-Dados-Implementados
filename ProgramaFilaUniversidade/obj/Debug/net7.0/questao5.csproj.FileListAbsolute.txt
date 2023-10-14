@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\bin\Debug\net7.0\questao5.exe
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\bin\Debug\net7.0\questao5.deps.json
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\bin\Debug\net7.0\questao5.runtimeconfig.json
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\bin\Debug\net7.0\questao5.dll
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\bin\Debug\net7.0\questao5.pdb
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\obj\Debug\net7.0\questao5.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\obj\Debug\net7.0\questao5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\obj\Debug\net7.0\questao5.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\obj\Debug\net7.0\questao5.AssemblyInfo.cs
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\obj\Debug\net7.0\questao5.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\obj\Debug\net7.0\questao5.dll
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\obj\Debug\net7.0\refint\questao5.dll
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\obj\Debug\net7.0\questao5.pdb
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\obj\Debug\net7.0\questao5.genruntimeconfig.cache
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilaUniversidade\obj\Debug\net7.0\ref\questao5.dll

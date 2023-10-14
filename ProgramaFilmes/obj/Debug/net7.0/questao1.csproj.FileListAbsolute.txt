@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\bin\Debug\net7.0\questao1.exe
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\bin\Debug\net7.0\questao1.deps.json
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\bin\Debug\net7.0\questao1.runtimeconfig.json
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\bin\Debug\net7.0\questao1.dll
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\bin\Debug\net7.0\questao1.pdb
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\obj\Debug\net7.0\questao1.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\obj\Debug\net7.0\questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\obj\Debug\net7.0\questao1.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\obj\Debug\net7.0\questao1.AssemblyInfo.cs
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\obj\Debug\net7.0\questao1.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\obj\Debug\net7.0\questao1.dll
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\obj\Debug\net7.0\refint\questao1.dll
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\obj\Debug\net7.0\questao1.pdb
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\obj\Debug\net7.0\questao1.genruntimeconfig.cache
+C:\Users\vinic\Desktop\projetos\Programas Coleções Implementadas\ProgramaFilmes\obj\Debug\net7.0\ref\questao1.dll
