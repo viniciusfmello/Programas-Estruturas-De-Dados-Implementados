@@ -1,0 +1,4 @@
+Esse programa recebe duas filas de valores do tipo inteiro, e concatena as
+duas filas, retornando a fila concatenada em F1. F2 deve ficar vazia. OBS: Concatenar
+consiste em juntar todos os elementos das duas filas em apenas uma fila. Ao final,
+mostre os elementos da fila.

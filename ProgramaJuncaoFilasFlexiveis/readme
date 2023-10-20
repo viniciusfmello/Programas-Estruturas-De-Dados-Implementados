@@ -1,0 +1,1 @@
+Esse programa recebe duas filas contendo elementos inteiros em ordem crescente, e uma vazia, e depois, preenche a última com os valores das duas primeiras em ordem crescente. Ao final, mostra os elementos da terceira fila.

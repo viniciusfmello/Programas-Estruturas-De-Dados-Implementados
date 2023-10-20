@@ -1,0 +1,2 @@
+Esse programa verifica se uma palara é um palíndromo utilizando o conceito de Pilha flexível implatada à mão. Ao final, uma das pilhas, tem seus elementos armazenados na mesma ordem em que estava quando passada como
+parâmetro ao método

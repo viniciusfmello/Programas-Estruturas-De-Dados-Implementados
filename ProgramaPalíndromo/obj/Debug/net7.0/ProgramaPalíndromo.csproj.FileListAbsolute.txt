@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\bin\Debug\net7.0\ProgramaPalíndromo.exe
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\bin\Debug\net7.0\ProgramaPalíndromo.deps.json
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\bin\Debug\net7.0\ProgramaPalíndromo.runtimeconfig.json
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\bin\Debug\net7.0\ProgramaPalíndromo.dll
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\bin\Debug\net7.0\ProgramaPalíndromo.pdb
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\obj\Debug\net7.0\ProgramaPalíndromo.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\obj\Debug\net7.0\ProgramaPalíndromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\obj\Debug\net7.0\ProgramaPalíndromo.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\obj\Debug\net7.0\ProgramaPalíndromo.AssemblyInfo.cs
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\obj\Debug\net7.0\ProgramaPalíndromo.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\obj\Debug\net7.0\ProgramaPalíndromo.dll
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\obj\Debug\net7.0\refint\ProgramaPalíndromo.dll
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\obj\Debug\net7.0\ProgramaPalíndromo.pdb
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\obj\Debug\net7.0\ProgramaPalíndromo.genruntimeconfig.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaPalíndromo\obj\Debug\net7.0\ref\ProgramaPalíndromo.dll
